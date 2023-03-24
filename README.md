@@ -1,1 +1,1 @@
-# .github
+repo that contains organization readme
